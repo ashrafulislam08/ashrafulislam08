@@ -9,7 +9,7 @@ I've been learning to code for 3 years. Now I am learning to Develop modern appl
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Ashraful's Portfolio](http://ashrafulislam-dev.netlify.app/)
 * ✉️  You can contact me at [ashrafulislam.dev1@gmail.com](mailto:ashrafulislam.dev1@gmail.com)
-* 🧠  I'm learning ReactJS sand Tailwind
+* 🧠  I'm learning ReactJS and Tailwind
 * 🤝  I'm open to collaborating on varioius project
 
 ### Skills
