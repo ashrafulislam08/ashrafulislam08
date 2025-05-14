@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **grow.ashraful@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KDp2KTsbXUUuWjAeZ5ySpIwTwDt_V4s7J7XIz12iPy0/edit?usp=sharing](https://docs.google.com/document/d/1KDp2KTsbXUUuWjAeZ5ySpIwTwDt_V4s7J7XIz12iPy0/edit?usp=sharing)
+- 📄 Know about my experiences [Click](https://docs.google.com/document/d/1KDp2KTsbXUUuWjAeZ5ySpIwTwDt_V4s7J7XIz12iPy0/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
