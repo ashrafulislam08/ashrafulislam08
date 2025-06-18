@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafulislam08" alt="ashrafulislam08" /></a> </p>
 
-- 🔭 I’m currently working on [GreatStay](https://hb-gs.vercel.app/)
+- 🔭 I’m currently working on [Note App]()
 
-- 🌱 I’m currently learning **Typescript, NextJS, PostgresSQL**
+- 🌱 I’m currently learning **Typescript, NextJS, PostgresSQL, MongoDB, Mongoose**
 
 - 👨‍💻 All of my projects are available at [ashrafulislam-dev.netlify.app](ashrafulislam-dev.netlify.app)
 
